@@ -1,0 +1,28 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.file {
+    color: #ff00ff;
+}
+
+.click {
+    color: #0000ff;
+}
+
+.android {
+    color: #00ff00;
+}
+
+.ios {
+    color: #cc0000
+}
+
+.ap {
+    color: #00FF00;
+}
+
+.skip {
+    color: #ff0000
+}
